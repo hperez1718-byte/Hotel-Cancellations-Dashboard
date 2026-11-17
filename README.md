@@ -4,9 +4,7 @@
 
 ![Dashboard top](dashboard-top.png)
 
-![Dashboard bottom](dashboard-bottom.png.png)
-
-*Screenshots show v1 of the dashboard. See [What changed in v2](#what-changed-in-v2).*
+![Dashboard bottom](dashboard-bottom.png)
 
 ## What it shows
 
@@ -64,8 +62,8 @@ Open `Hotel_Cancellations_Dashboard.xlsx` in Excel.
 ## Files
 
 - `Hotel_Cancellations_Dashboard.xlsx` — the dashboard workbook (v2)
-- `dashboard-top.png` — v1 screenshot: KPI tiles, lost revenue by hotel and by market segment, cancellation rate by arrival month
-- `dashboard-bottom.png.png` — v1 screenshot: cancellation rate by deposit type and lead time, Groups deep-dive, recommendations
+- `dashboard-top.png` — Dashboard top: KPI tiles, lost revenue by hotel and by market segment, cancellation rate by arrival month, slicers
+- `dashboard-bottom.png` — Dashboard bottom: cancellation rate by deposit type and lead time, data notes, Groups key figures, recommendations
 - `README.md` — this file
 
 ## Source and notes
