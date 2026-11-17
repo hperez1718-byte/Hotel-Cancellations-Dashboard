@@ -12,7 +12,7 @@
 - **Lost revenue by market segment** — Online TA $10,227,185, Groups $2,800,621, Offline TA/TO $2,492,420, Direct $993,400, Corporate $196,382, Aviation $16,578, Complementary $270
 - **Cancellation rate by arrival month** — July 2015 to August 2017, low 20.8% (Nov 2015), high 45.4% (Jul 2015)
 - **Cancellation rate by deposit type** — No Deposit 28.37%, Non Refund 99.36%, Refundable 22.22%
-- **Cancellation rate by lead time bucket** — 0–30 days 18.56%, 31–90 days 37.70%, 91–180 days 44.71%, 181+ days 57.01%
+- **Cancellation rate by lead time bucket** — 0–30 days 18.55%, 31–90 days 37.70%, 91–180 days 44.71%, 181+ days 57.01%
 - **Groups key figures** — 19,811 bookings, 61.06% cancellation rate, $2,800,621 lost revenue (market_segment = Groups)
 - **Data notes** — context for the deposit chart, partial years, and known data quirks
 
@@ -33,7 +33,7 @@ Lost revenue is room revenue only: ADR × nights for canceled bookings (no-shows
 
 1. **Groups:** Tighten group booking terms around deposit requirements and block cutoff dates. Group cancellations are running at 61.06%, well above the overall rate of 37.04%, representing a $2.8M revenue drag.
 2. **Online TA (priority):** Tighten OTA cancellation terms and controls. Online TA is the largest revenue loss at $10,227,185, so even small rate improvements here return more dollars than bigger percentage gains in minor channels.
-3. **Long lead time:** Add deposit or reconfirmation steps for bookings made 181+ days out. Those cancel at 57.01% ($4.8M in lost revenue), versus 18.56% for bookings made within 30 days.
+3. **Long lead time:** Add deposit or reconfirmation steps for bookings made 181+ days out. Those cancel at 57.01% ($4.8M in lost revenue), versus 18.55% for bookings made within 30 days.
 
 ## How to read it
 
